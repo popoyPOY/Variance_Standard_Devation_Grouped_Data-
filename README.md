@@ -1,4 +1,4 @@
-#Important Variables:
+# Important Variables:
 
 group_data_1 is the first number of the class limit, example "60-67", group_data_1 will be 60.
 group_data_2 is the second number of the class limit, example "60-67", group_data_2 will be 67.
